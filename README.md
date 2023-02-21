@@ -1,5 +1,1 @@
 //# Lipo-Tester in development
-still needs work.
-//hardware + sofware project
-//the hardware includes 3 pic microchip, all 3 soft included 
-//the pc softs is for capturing datas an anayze, also needs some work.
